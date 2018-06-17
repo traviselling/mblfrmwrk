@@ -1,2 +1,2 @@
 # mblfrmwrk
-Basic Mobile framwork node js
+Basic Mobile framework node js

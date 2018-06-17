@@ -1,0 +1,62 @@
+body {
+background-color: #D1E2FD;
+padding:0;
+min-width:100vw;
+min-height:100vh;
+margin:0;
+font-family: Arial, Helvetica, sans-serif;
+font-weight: bold;
+font-size: 1.8em;
+}
+.header {
+  background-color: #A1C2F7;
+  height:5vh;
+  margin-bottom:2%;
+  padding: 10px;
+}
+
+.mainWindow {
+margin: 0 auto;
+background-color: #76A7F7;
+height: 77.5vh;
+width: 96vw;
+color: #444;
+}
+
+.sidebar {
+  background-color:#003B99;
+  width:33vw;
+}
+
+.infoWindow {
+  height: 44.2vh;
+  width:100%;
+  background-color: #AFCCFB;
+  float:left;
+  margin-right:1%;
+  padding-left:10px;
+  padding-right:10px;
+
+}
+
+.content {
+  background-color:#003B99;
+  height:44.3vh;
+  width:54.5vw;
+  float:right;
+  margin-bottom: 2%;
+  margin-right:2.3%;
+  color: azure;
+  padding-left:10px;
+  padding-right:10px;
+}
+
+.footer {
+  color:azure;
+  margin:0 auto;
+  clear: both;
+  background-color:#003B99;
+  height:29.1vh;
+  width:89vw;
+  padding:10px;
+}
